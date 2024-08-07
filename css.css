@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f2f6;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #1f77b4;
+    text-align: center;
+}
+
+h2 {
+    color: #ff7f0e;
+    text-align: center;
+}
+
+.stButton>button {
+    background-color: #1f77b4;
+    color: white;
+    border-radius: 10px;
+}
+
+.stFileUploader {
+    background-color: #ff7f0e;
+    color: white;
+    border-radius: 10px;
+}
